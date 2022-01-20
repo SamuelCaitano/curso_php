@@ -1,0 +1,1 @@
+# [Precedência de Operadores](https://www.php.net/manual/pt_BR/language.operators.precedence.php#language.operators.precedence) :elephant:

@@ -1,0 +1,1 @@
+[Operadores Aritméticos](https://www.php.net/manual/pt_BR/language.operators.arithmetic.php)
