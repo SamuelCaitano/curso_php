@@ -1,0 +1,2 @@
+# Exercício 17
+## Crie uma condição na estrutura de controle IF, e verifique se o valor da variável é idêntica a outra, utilize o operador &&(and) para validar se ambas operações são verdadeiras ou falsas;
