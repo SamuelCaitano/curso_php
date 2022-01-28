@@ -1,0 +1,3 @@
+# Exercício 27
+## Crie um arquivo PHP;
+### <li> Crie um array com vários tipos de dados diferentes, int, double, boolean, string; <br> <li> Utilize a estrutura de repetição <code>while</code> para percorrer esse array; <br> <li> E verifique quais dados são do tipo string nesse array; <br> <li> Você pode utilizar a estrutura de controle  <code>if</code> e a função <code>is_string</code> para verificar o dado;
